@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://x8iur7ghx8hp"]
+
+[ext_resource type="Script" path="res://api_status_ui.gd" id="1_mu3xb"]
+
+[node name="APIStatusUI" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("1_mu3xb")
