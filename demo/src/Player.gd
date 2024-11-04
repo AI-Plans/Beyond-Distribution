@@ -61,7 +61,7 @@ var terrain_data: Dictionary = {
 const USE_LOCAL_SERVER = false
 const LOCAL_API_URL = "http://localhost:5000/ai/think"
 const GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-const API_KEY = "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"
+const API_KEY = "YOUR API KEY"
 const MODEL = "mixtral-8x7b-32768"
 
 # API State Management
